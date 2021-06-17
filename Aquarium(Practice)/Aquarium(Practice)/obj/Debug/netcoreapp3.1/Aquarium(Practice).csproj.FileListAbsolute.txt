@@ -1,0 +1,13 @@
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\bin\Debug\netcoreapp3.1\Aquarium(Practice).exe
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\bin\Debug\netcoreapp3.1\Aquarium(Practice).deps.json
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\bin\Debug\netcoreapp3.1\Aquarium(Practice).runtimeconfig.json
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\bin\Debug\netcoreapp3.1\Aquarium(Practice).runtimeconfig.dev.json
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\bin\Debug\netcoreapp3.1\Aquarium(Practice).dll
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\bin\Debug\netcoreapp3.1\Aquarium(Practice).pdb
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\obj\Debug\netcoreapp3.1\Aquarium(Practice).csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\obj\Debug\netcoreapp3.1\Aquarium(Practice).AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\obj\Debug\netcoreapp3.1\Aquarium(Practice).AssemblyInfo.cs
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\obj\Debug\netcoreapp3.1\Aquarium(Practice).csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\obj\Debug\netcoreapp3.1\Aquarium(Practice).dll
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\obj\Debug\netcoreapp3.1\Aquarium(Practice).pdb
+C:\Users\Vlad\source\repos\Aquarium(Practice)\Aquarium(Practice)\obj\Debug\netcoreapp3.1\Aquarium(Practice).genruntimeconfig.cache
